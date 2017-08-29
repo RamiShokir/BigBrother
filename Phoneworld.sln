@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoneworld", "Phoneworld\Phoneworld.csproj", "{1731183C-1B3A-4754-844F-ECF7ABC00A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1731183C-1B3A-4754-844F-ECF7ABC00A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1731183C-1B3A-4754-844F-ECF7ABC00A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1731183C-1B3A-4754-844F-ECF7ABC00A99}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1731183C-1B3A-4754-844F-ECF7ABC00A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1731183C-1B3A-4754-844F-ECF7ABC00A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1731183C-1B3A-4754-844F-ECF7ABC00A99}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBE4725F-390A-4A44-B2D8-074908B512BD}
+	EndGlobalSection
+EndGlobal
